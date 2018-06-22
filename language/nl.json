@@ -5,10 +5,10 @@
       "entity": "vraag",
       "widgets": [
         {
-          "label": "Default"
+          "label": "Standaard"
         },
         {
-          "label": "Textual"
+          "label": "Tekstueel"
         }
       ],
       "field": {
